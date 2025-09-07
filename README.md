@@ -17,8 +17,8 @@ Visit [https://www.emailforindiehackers.com](https://www.emailforindiehackers.co
 
 ## Need Help?
 
-- GitHub issue - feature requests or bug reports.
-- GitHub discussion - general questions, best practices, community showcase.
+- [GitHub issue](https://github.com/email-for-indiehackers/.github/issues) - feature requests or bug reports.
+- [GitHub discussion](https://github.com/email-for-indiehackers/.github/discussions) - general questions, best practices, community showcase.
 
 ---
 
