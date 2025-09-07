@@ -1,6 +1,8 @@
 ![Hero Image](./assets/hero-image.png)
 
-Email For Indiehackers is a cost-effective email solution that leverages your own AWS account to send emails at Amazon's rock-bottom rates. No markup, no hidden fees - just $0.1 per 1,000 emails.
+**Hacking the Cost of Email Marketing!**
+
+Send emails at 100x lower cost with _AWS SES_. Built for bootstrappers who count every dollar.
 
 ## Features
 
@@ -20,5 +22,5 @@ Visit [https://www.emailforindiehackers.com](https://www.emailforindiehackers.co
 
 ---
 
-- $ Love Email For Indiehackers?
+- ❤️ Love Email For Indiehackers?
 - ⭐️ Click the star button
